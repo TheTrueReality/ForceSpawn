@@ -1,0 +1,10 @@
+ name: ForceSpawn
+ main: com.truerealitymc.forcespawn.Master
+ database: false
+ version: 1.0
+ description: A simple bukkit plugin to force a player to go to spawn when they login to the server
+ author: TheTrueReality
+ 
+ commands:
+   spawn:
+     description: Base command for the ForceSpawn plugin.
